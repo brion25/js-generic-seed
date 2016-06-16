@@ -5,6 +5,7 @@ const browserify = require('browserify');
 
 export function bundleJS(){
   return browserify('./app/index.js')
+      .transform("babelify", {presets: ['es2015']})
       .bundle()
       .pipe(source('bundle.js'))
       .pipe(buffer())
