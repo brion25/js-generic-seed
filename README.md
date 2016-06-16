@@ -11,20 +11,20 @@ This seed uses all the generic tools needed to work either with ES6 or ES5 on th
 - `plato` -> Complexity tool
 
 ## Steps use it
-1. Clone the repo and go to the folder:
+- Clone the repo and go to the folder:
 ```
 git clone https://github.com/brion25/js-generic-seed.git
 cd js-generic-seed
 ```
-2. Install the dependencies
+- Install the dependencies
 ```
 npm install
 ```
-3. Run `gulp`
+- Run `gulp`
 ```
 npm run gulp
 ```
-**NOTE**: I'm nos running `gulp` as we normally run it, because this seed it's configured to work without any global dependency, but you can install `gulp` globally using the command:
+**NOTE**: I'm not running `gulp` as we normally run it, because this seed it's configured to work without any global dependency, but you can install `gulp` globally using the command:
 ```
 npm install -g gulp
 ```
