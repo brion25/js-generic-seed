@@ -29,3 +29,5 @@ This seed uses all the generic tools needed to work either with ES6 or ES5 on th
    npm install -g gulp
    ```
    Now you can run the tasks separately, You can see the available tasks at the top of the output:
+
+![Available Tasks](https://raw.githubusercontent.com/brion25/js-generic-seed/master/assets/available.tasks.PNG)
