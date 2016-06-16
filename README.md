@@ -12,22 +12,22 @@ This seed uses all the generic tools needed to work either with ES6 or ES5 on th
 
 ## Steps use it
 1. Clone the repo and go to the folder:
-   ```
-   git clone https://github.com/brion25/js-generic-seed.git
-   cd js-generic-seed
-   ```
+```
+git clone https://github.com/brion25/js-generic-seed.git
+cd js-generic-seed
+```
 2. Install the dependencies
-   ```
-   npm install
-   ```
+```
+npm install
+```
 3. Run `gulp`
-   ```
-   npm run gulp
-   ```
-   **NOTE**: I'm nos running `gulp` as we normally run it, because this seed it's configured to work without any global dependency, but you can install `gulp` globally using the command:
-   ```
-   npm install -g gulp
-   ```
-   Now you can run the tasks separately, You can see the available tasks at the top of the output:
+```
+npm run gulp
+```
+**NOTE**: I'm nos running `gulp` as we normally run it, because this seed it's configured to work without any global dependency, but you can install `gulp` globally using the command:
+```
+npm install -g gulp
+```
+Now you can run the tasks separately, You can see the available tasks at the top of the output:
 
 ![Available Tasks](https://raw.githubusercontent.com/brion25/js-generic-seed/master/assets/available.tasks.PNG)
