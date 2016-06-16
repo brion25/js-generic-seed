@@ -1,0 +1,24 @@
+{
+  "name": "js-generic-seed",
+  "version": "1.0.0",
+  "description": "Generic seed for JS based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brion25/js-generic-seed.git"
+  },
+  "keywords": [
+    "js",
+    "gulp",
+    "browserify"
+  ],
+  "author": "JC Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brion25/js-generic-seed/issues"
+  },
+  "homepage": "https://github.com/brion25/js-generic-seed#readme"
+}
